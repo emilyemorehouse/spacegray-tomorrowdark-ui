@@ -1,7 +1,7 @@
 {
   "name": "spacegray-tomorrowdark-ui",
   "theme": "ui",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Port of the Spacegray Sublime Text theme to Atom. UI Theme to match base16 Tomorrow Dark Syntax (http://chriskempson.github.io/base16/#tomorrow)",
   "license": "MIT",
   "repository": "https://github.com/emilyemorehouse/spacegray-tomorrowdark-ui",
